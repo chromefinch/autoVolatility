@@ -1,0 +1,5 @@
+https://github.com/carlospolop/autoVolatility
+
+./autoVolatility.py -f C:\Users\user\Desktop\memdump.mem -e "python C:\Users\user\Desktop\volatility3-2.4.1\vol.py" -d C:\Users\user\Desktop\auto -a
+
+./autoVolatility.py -f /home/user/Downloads/memdump.mem -d /home/user/Downloads/auto -e /home/user/Documents/Volatility/volatility3-2.4.1/vol.py -a
